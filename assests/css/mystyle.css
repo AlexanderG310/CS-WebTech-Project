@@ -1,0 +1,103 @@
+/* CSS Document */
+.banner{
+	/*background-color:#00AEEF;*/
+	/*border: 2px solid #FF7276;*/
+	border-radius: 10px;
+  	border-width: 5px;
+	border-style: solid;
+	border: double 4px transparent;
+	background-image: 
+		linear-gradient(#424549, #424549), 
+		radial-gradient(circle at top left, #FF7276, #00AEEF);
+	background-origin: border-box;
+	background-clip: padding-box, border-box;
+	font-size: 40px;
+	margin: 10px;
+	padding: 5px;
+	font-family: Courier, monospace;
+	font-weight: bolder;
+	color: #F4364C;
+}
+
+.navActive{
+	background-color:#F4364C;
+	font-weight: bolder;
+	color: white;
+	border-bottom: 1px solid #ddd;
+    border-radius: 4px 4px 0 0;
+}
+
+.mainH1{
+	text-decoration: underline;
+}
+
+.ulColor{
+	color:lightgray;
+}
+
+.introP{
+	border-radius: 10px;
+  	border-width: 5px;
+	border-style: solid;
+	border: double 4px transparent;
+	background-image: 
+	linear-gradient(#424549, #424549), 
+	radial-gradient(circle at top left, #FF7276, mediumpurple);
+	background-origin: border-box;
+	background-clip: padding-box, border-box;
+	margin: 10px;
+	padding: 5px;
+}
+
+.centerImg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.paraFloat{
+	float: left;
+  	width: 48%;
+  	margin: 0 1%;
+	margin-bottom: 10px;
+}
+
+sup{
+	color: lightgray;
+}
+
+h1{
+	color: #68BBE3;
+}
+
+h2{
+	color: lightgray;
+}
+
+h3{
+	color: #0E86D4;
+}
+
+body{
+	background-color: #424549;
+}
+
+p{
+	color: lightgray;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 15px;
+}
+
+ul{
+	font-size: 15px;
+}
+
+a{
+	color:white;
+}
+
+label{
+	color: lightgray;
+}
